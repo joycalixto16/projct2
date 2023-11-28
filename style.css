@@ -1,0 +1,196 @@
+body{
+    background-color:white;
+}header{
+    text-align: center;
+}ul{
+    background-color: rgb(4, 143, 143);
+    color: aliceblue;
+    padding: 1%;
+    margin: 0px 50px ;
+
+}#div1{
+    color: rgb(150, 198, 211);
+    ;
+    background-image: url(https://thumbs.dreamstime.com/b/cama-dos-doutores-hospital-corredor-nutri%C3%A7%C3%A3o-pushing-gurney-stretcher-32154012.jpg);
+    padding: 100px ;
+    background-position: center;
+   
+}#titulo{
+   margin: 0px 250px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}section{
+    text-decoration: none;
+    word-spacing: 20px;  
+}a{
+    color: rgb(228, 255, 253);
+}#login{
+  color: blueviolet;
+}#letra{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 0px 20px 0px;
+    
+}#titulo2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px 0px 0px;
+}#div2{
+    padding: 10px;
+    background-color: rgb(237, 237, 237);
+    color: rgb(237, 237, 237);
+}#section1{
+    background-color: rgb(4, 143, 143);
+    color: aliceblue;
+    padding: 0px 0px 10% 0px;
+  
+}.box1{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 25%;
+    background-color: rgb(4, 143, 143);
+    height: 350px;
+}.box2{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 25%;
+    background-color: rgb(3, 157, 155);
+    height: 350px
+
+}.box3{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 25%;
+    background-color: rgb(2, 167, 167);
+    height: 350px;
+}.box4{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 25%;
+    background-color: rgb(0, 185, 185);
+    height: 350px;
+    
+}#h1{
+    text-align: center;
+    margin-top: 15%;
+    margin-bottom: 3%;
+    
+}.box5{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 20%;
+    background-color: rgb(199, 199, 199);
+    height: 200px;
+    margin: 0px 4.5%;
+     
+}.box6{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 20%;
+    background-color: rgb(199, 199, 199);
+    height: 200px;
+    margin: 0px 4.5%;
+    
+}.box7{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 20%;
+    background-color: rgb(199, 199, 199);
+    height: 200px;
+    margin: 0px 4.5%;
+    
+}.section2{
+    text-align: center;
+    margin-left: 6%;
+    text-align: start;
+    text-align: justify;
+}.color{
+    color: rgb(23, 157, 157);
+}#color2{
+    background-color: rgb(1, 185, 185) ;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 19px;
+}.box8{
+    align-self: flex-start;
+    display: flex; 
+    float: left;
+    width: 15%;
+    
+    height: 200px;
+    padding: 20px 100px;
+   
+}.box9{
+    align-self: flex;
+    display: grid; 
+    float: left;
+    width: 15%;
+    
+    height: 200px;
+    padding: 20px 100px;
+}.box10{
+    align-self: flex;
+    display: grid; 
+    float: left;
+    width: 15%;
+   
+    height: 200px;
+    padding: 20px 100px;
+}.box11{
+    align-self: flex;
+    display: grid; 
+    float: left;
+    width: 15%;
+   
+    height: 200px;
+    padding: 20px 100px;
+}.box12{
+    align-self: flex;
+    display: grid; 
+    float: left;
+    width: 15%;
+  
+    height: 200px;
+    padding: 20px 100px;
+}.box13{
+    align-self: flex-end;
+    display: grid; 
+    float: left;
+    width: 15%;
+  
+    height: 200px;
+    padding: 20px 100px;
+}#section3{
+   
+    margin-left: 200px;
+    text-align: center;
+}#section4{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qBtcRPV_V1K-SzxMm81gh6bwlpGd9MSE4R1NylCfFIj6Uqbo2-c7Ttxf-0-a4sMlQqg&usqp=CAU);
+    background-size: 100%;
+    padding: 100px 130px;
+ 
+   
+    
+}.box14{
+    display: inline-block;
+    align-self: flex; 
+    margin-right: 50px;
+   
+    
+
+   
+}.box15{
+    align-self: flex;
+    display: inline-block; 
+    margin: 0px 0px 100px 0px;
+   
+  
+  
+}
+
